@@ -7,10 +7,10 @@ export const models: Models = {
         settings: {
             stop: [],
             maxInputTokens: 128000,
-            maxOutputTokens: 8192,
-            frequency_penalty: 0.0,
-            presence_penalty: 0.0,
-            temperature: 0.6,
+            maxOutputTokens: 500,
+            frequency_penalty: 0.6,
+            presence_penalty: 0.4,
+            temperature: 0.95,
         },
         model: {
             [ModelClass.SMALL]: "gpt-4o-mini",

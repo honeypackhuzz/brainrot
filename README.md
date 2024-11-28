@@ -1,4 +1,4 @@
-# Brainrot AI
+# ️‍🔥 Brainrot AI ️‍🔥
 
 <div align="center">
   <img src="./docs/static/img/brainrot_banner.png" alt="Brainrot Banner" width="100%" />
